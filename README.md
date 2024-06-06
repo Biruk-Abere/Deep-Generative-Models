@@ -1,4 +1,5 @@
-# Deep-Generative-Models
+# Deep Generative Models
+![Alt text](https://github.com/Biruk-Abere/Deep-Generative-Models/blob/main/diffusion-models.png)
 
 # Overview
 Welcome to the Deep Generative Models GitHub repository, which is largely inspired by Stanford CS236! This repository is dedicated to the math, PyTorch implementation, and theoretical foundation of various classes of generative models.
